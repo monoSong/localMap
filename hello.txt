@@ -1,10 +1,10 @@
-﻿Git is a version control system.
+﻿Git is a version control system1.
 Git is free software1.
 
-Git2 is a version control system.
-Git2 is free software.
+Git2 is a version control system2.
+Git2 is free software.3
 
 Git3 is a version control system.
 
-4442
+44424
 
